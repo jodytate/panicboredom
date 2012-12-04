@@ -1,0 +1,13 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# BY
+
+    jody tate @josephtate
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, 
+    CSS3,
+    jQuery, 
+    Modernizr
