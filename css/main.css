@@ -95,7 +95,7 @@ textarea {
     for panicboredom.com
 
    ========================================================================== */
-/*
+
 
     html,
     button,
@@ -105,16 +105,37 @@ textarea {
         color: #333333;
     }
 
-    p {
-        color: #FF0000;
-    }
+/* http://www.jquery4u.com/snippets/jquery-element-full-screen/ */
+
+html,
+body {
+    height: 100%;
+}
+
+h1 {
+    font-family: 'Herr Von Muellerhoff', cursive;
+    font-size: 500%;
+    font-weight: normal;
+    position: absolute;
+    top: 15%;
+    margin-left: 25%;
+    margin-right: 25%;
+    display: table-cell;
+    vertical-align: middle;
+    color:#FFFFFF;
+}
+
+h1 span {
+    color: #000000;
+}
+
 
 @media screen and (min-height: 500px) {  
   p { color: #000000; }
 }
 
 
-*/
+
 
 
 
